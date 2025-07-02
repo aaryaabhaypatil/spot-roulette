@@ -7,3 +7,6 @@ Features
 - Image preview + map embed
 - Responsive and simple UI
 
+
+https://aaryaabhaypatil.github.io/spot-roulette/
+
